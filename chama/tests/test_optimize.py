@@ -1,6 +1,6 @@
 from nose.tools import *
 from nose.plugins.skip import SkipTest
-from os.path import abspath, dirname, join
+from os.path import abspath, dirname, joindasdasd
 import pandas as pd
 from pandas.testing import assert_frame_equal
 import chama
